@@ -4,6 +4,8 @@
 
 Este projeto é um menu lateral responsivo (sidebar) desenvolvido apenas com tecnologias puras da web: **HTML, CSS e JavaScript**, sem uso de frameworks. A proposta é criar uma interface de navegação leve, funcional e adaptável para diferentes tamanhos de tela, ideal para dashboards e aplicações web.
 
+🔗 **Demonstração ao vivo**: [Acesse no GitHub Pages](https://cesar-severo-programador.github.io/Menu-Responsivo/)
+
 ---
 
 ## ✅ Funcionalidades
@@ -65,7 +67,7 @@ menu/
 
 1. Clone o repositório:
 ```bash
-git clone https://github.com/seu-usuario/nome-do-repositorio.git
+git clone https://github.com/cesar-severo-programador/Menu-Responsivo.git
 
 
 
@@ -86,7 +88,7 @@ git clone https://github.com/seu-usuario/nome-do-repositorio.git
 
 1. Clone o repositório:
 
-git clone https://github.com/seu-usuario/nome-do-repositorio.git
+git clone https://github.com/cesar-severo-programador/Menu-Responsivo.git
 Abra o index.html no navegador ou em um servidor local.
 
 📌 Próximos Passos
