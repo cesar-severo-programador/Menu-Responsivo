@@ -1,0 +1,33 @@
+.list {
+    list-style: none;
+    padding: 0;
+    width: 100%;
+}
+
+.list-item {
+    margin-bottom: 15px;
+    font-size: 0.87rem;
+    font-weight: 500;
+    cursor: pointer;
+    padding: 10px;
+    border-radius: 10px;
+}
+.list-item-icon {
+    width: 30px;
+    font-size: 20px;
+}
+
+.list-item:hover,
+.list-item.active {
+    background-color: #374151;
+    color: #fff;
+}
+
+.list-item.active.nigth {
+    background-color: #4338ca;
+}
+
+.list-item.active.light {
+    background-color: #d1d5db;
+    color: #111827;
+}
